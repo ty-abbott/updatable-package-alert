@@ -1,0 +1,6 @@
+Listing...
+libpython3-dev/jammy-updates,jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+libpython3-stdlib/jammy-updates,jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3-dev/jammy-updates,jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3-minimal/jammy-updates,jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3/jammy-updates,jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
