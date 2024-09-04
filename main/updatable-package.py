@@ -11,8 +11,8 @@ if os.path.getsize('upgradable.txt') != 0:
     port = 465
     auth_token = os.environ.get('bot_password')
     subject = 'upgradable packages'
-    body = """
-    hey there this is a test """
+    with open ('upgradable.txt', 'r') as file:
+        body = file.read()
     
     em = EmailMessage()
     em['From'] = from_address
